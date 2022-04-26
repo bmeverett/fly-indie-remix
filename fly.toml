@@ -1,4 +1,4 @@
-app = "fly-indie-remix-fc22"
+app = "bme-indie-stack-template"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
